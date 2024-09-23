@@ -1,0 +1,668 @@
+﻿ROW,SCHOOL_NO,Fire_Risk_Category_2023-24,Facility_Name,Education_Sector,Facility_Address,Town_Suburb,Local-Government_Area,Fire_Weather_District
+1,5566,CAT 2,Aireys Inlet Primary School,Government,13 Anderson Street,Aireys Inlet,Surf Coast,Central
+2,2101,CAT 2,Alice Miller School,Independent,110 Bailey Road,Macedon,Macedon Ranges,Central
+3,1637,CAT 3,Amphitheatre Primary School,Government,16 School Road,Amphitheatre,Pyrenees,South West
+4,1910,CAT 3,Anakie Primary School,Government,2125-2135 Ballan Road,Anakie,Greater Geelong,Central
+5,5104,CAT 3,Andersons Creek Primary School,Government,36-42 Drysdale Road,Warrandyte,Manningham,Central
+6,4332,CAT 2,Anglesea Primary School,Government,85 Camp Road,Anglesea,Surf Coast,Central
+7,4844,CAT 3,Antonio Park Primary School,Government,631-639 Whitehorse Road,Mitcham,Whitehorse,Central
+8,1208,CAT 3,Apsley Primary School,Government,46 Laidlaw Street,Apsley,West Wimmera,Wimmera
+9,4995,CAT 3,Ararat North Primary School,Government,66 Blake Street,Ararat,Ararat,South West
+10,1666,CAT 3,Arthurs Creek Primary School,Government,900 Arthurs Creek Road,Arthurs Creek,Nillumbik,Central
+11,8,CAT 3,Avenel Primary School,Government,40 Anderson Street,Avenel,Strathbogie,Northern Country
+12,3309,CAT 3,Badger Creek Primary School,Government,Badger Creek Rd,Healesville,Yarra Ranges,Central
+13,1984,CAT 3,Ballarat Steiner School,Independent,244 Moss Avenue,Mt Helen,Ballarat,Central
+14,3787,CAT 3,Balliang East Primary School,Government,4 School Road,Balliang East,Moorabool,Central
+15,1698,CAT 3,Balnarring Primary School,Government,1 Civic Court,Balnarring,Mornington Peninsula,Central
+16,1489,CAT 3,Barnawartha Primary School,Government,11-17 Stanely Street,Barnawartha,Indigo,North East
+17,5195,CAT 3,Bass Valley Primary School,Government,70 Corinella Road,Corinella,Bass Coast,Central
+18,1837,CAT 3,Bayside Christian College,Independent,120-128 Robinsons Road,Langwarrin South,Frankston,Central
+19,2560,CAT 2,Beaconsfield Upper Primary School,Government,40 Stoney Creek Road,Beaconsfield Upper,Cardinia,Central
+20,749,CAT 3,Bealiba Primary School,Government,9 Grant Street,Bealiba,Central Goldfields,North Central
+21,2042,CAT 3,Beechworth Montessori School,Independent,42 Gilchrist Ave,Beechworth,Indigo,North East
+22,1560,CAT 3,Beechworth Primary School,Government,17 Junction Road,Beechworth,Indigo,North East
+23,7575,CAT 3,Beechworth Secondary College,Government,85 Balaclava Road,Beechworth,Indigo,North East
+24,1864,CAT 3,Belgrave Heights Christian School,Independent,20 Wattle Valley Road,Belgrave Heights,Yarra Ranges,Central
+25,3551,CAT 3,Belgrave South Primary School,Government,175 Colby Drive,Belgrave South,Yarra Ranges,Central
+26,319,CAT 3,Bellbrae Primary School,Government,50 School Road,Bellbrae,Surf Coast,Central
+27,1883,CAT 3,Bethanga Primary School,Government,5 Beardmore Street,Bethanga,Towong,North East
+28,3109,CAT 3,Beulah Primary School,Government,Henty Highway,Beulah,Yarriambiack,Mallee
+29,1551,CAT 3,Big Hill Primary School,Government,5644 Calder Highway,Big Hill,Greater Bendigo,Northern Country
+30,5193,CAT 3,Billanook Primary School,Government,270 Sheffield Road,Montrose,Yarra Ranges,Central
+31,5048,CAT 3,Birmingham Primary School,Government,43-49 Francis Crescent,Mount Evelyn,Yarra Ranges,Central
+32,4860,CAT 3,Blackburn Lake Primary School,Government,12 - 14 Florence Street,Blackburn,Whitehorse,Central
+33,1324,CAT 3,Bolwarra Primary School,Government,249 Princes Highway,Bolwarra,Glenelg,South West
+34,3612,CAT 3,Bona Vista Primary School,Government,520 Bona Vista Road,Bona Vista,Baw Baw,Central
+35,2617,CAT 3,Boolarra Primary School,Government,Tarwin Street,Boolarra,Latrobe,East Gippsland
+36,8882,CAT 3,Boort District P-12 School,Government,9 - 27 Malone Street,Boort,Loddon,Northern Country
+37,776,CAT 3,Bright P-12 College,Government,46 Bakers Gully Road,Bright,Alpine,North East
+38,1141,CAT 3,Bruthen Primary School,Government,31 Great Alpine Road,Bruthen,East Gippsland,East Gippsland
+39,2072,CAT 3,Buangor Primary School,Government,26 School Road,Buangor,Ararat,South West
+40,1905,CAT 3,Buchan Primary School,Government,4 Dalley Street,Buchan,East Gippsland,East Gippsland
+41,1288,CAT 1,Bullarto Primary School,Government,131 Bullarto South Road,Bullarto,Hepburn,Central
+42,1270,CAT 3,Buninyong Primary School - Scotsburn Primary School,Government,6859 Midland Highway,Scotsburn,Ballarat,Central
+43,2229,CAT 3,Bunyip Primary School,Government,1290 Nar Nar Goon - Longwarry Road,Bunyip,Cardinia,Central
+44,1669,CAT 3,Buxton Primary School,Government,2208 Maroondah Highway,Buxton,Murrindindi,North Central
+45,123,CAT 3,California Gully Primary School,Government,4-14 Staley Street,California Gully,Greater Bendigo,Northern Country
+46,3920,CAT 2,Cann River P-12 College,Government,20-24 Tamboon Road,Cann River,East Gippsland,East Gippsland
+47,1030,CAT 3,Carisbrook Primary School,Government,2  Camp Street,Carisbrook,Central Goldfields,North Central
+48,3497,CAT 3,Carlisle River Primary School,Government,49 Moomowroong Road,Carlisle River,Colac-Otway,South West
+49,8824,CAT 3,Castlemaine Secondary College - Junior Campus,Government,Blakeley Rd,Castlemaine,Mount Alexander,North Central
+50,1932,CAT 3,Castlemaine Steiner School,Independent,11 Rilens Rd,Muckleford,Mount Alexander,North Central
+51,2081,CAT 3,Cathedral College Wangaratta - Murdoch Road Campus,Independent,344 Wangaratta-Whitfield Road,Wangaratta,Wangaratta,North East
+52,576,CAT 3,Catholic Ladies' College Ltd,Catholic,19 Diamond Street,Eltham,Nillumbik,Central
+53,116,CAT 3,Cavendish Primary School,Government,8-10 Barker Street,Cavendish,Southern Grampians,South West
+54,1054,CAT 2,Chewton Primary School,Government,1 Hunter Street,Chewton,Mount Alexander,North Central
+55,327,CAT 3,Chiltern Primary School,Government,91-101 Albert Road,Chiltern,Indigo,North East
+56,1362,CAT 1,Christmas Hills Primary School,Government,1409 Eltham-yarra Glen Road,Christmas Hills,Nillumbik,Central
+57,3279,CAT 2,Chum Creek Primary School,Government,705 Chum Creek Road,Chum Creek,Yarra Ranges,Central
+58,3684,CAT 2,Clifton Creek Primary School,Government,1020 Deptford Road,Clifton Creek,East Gippsland,East Gippsland
+59,716,CAT 3,Coimadai Primary School,Government,86 Bennetts Lane,Coimadai,Moorabool,Central
+60,1136,CAT 3,Concongella Primary School,Government,61 Concongella School Road,Concongella,Northern Grampians,Wimmera
+61,4755,CAT 3,Cranbourne South Primary School,Government,Pearcedale Road,Cranbourne South,Casey,Central
+62,2041,CAT 3,Creswick North Primary School,Government,93 Macs Street,Creswick,Hepburn,Central
+63,3080,CAT 3,Crib Point Primary School,Government,70 Milne Street,Crib Point,Mornington Peninsula,Central
+64,3907,CAT 3,Currawa Primary School,Government,2 Ridge Road,Dookie Campus,Greater Shepparton,Northern Country
+65,265,CAT 3,Damascus College,Catholic,1412 Geelong Road,Mount Clear,Ballarat,Central
+66,878,CAT 3,Darraweit Guim Primary School,Government,2 Darraweit Valley Road,Darraweit Guim,Macedon Ranges,Central
+67,1035,CAT 3,Dartmoor Primary School,Government,76 Greenham Street,Dartmoor,Glenelg,South West
+68,1609,CAT 3,Daylesford Primary School,Government,102-128 Vincent Street,Daylesford,Hepburn,Central
+69,7115,CAT 3,Daylesford Secondary College,Government,39 Smith Street,Daylesford,Hepburn,Central
+70,1642,CAT 3,Deans Marsh Primary School,Government,30 Deans Marsh-Lorne Road,Deans Marsh,Surf Coast,Central
+71,1772,CAT 3,Dederang Primary School,Government,4364 Kiewa Valley Highway,Dederang,Alpine,North East
+72,5375,CAT 3,Derrinallum P-12 College,Government,Campbell Street,Derrinallum,Corangamite,South West
+73,5037,CAT 3,Diamond Creek East Primary School,Government,129-163 Main Hurstbridge Road,Diamond Creek,Nillumbik,Central
+74,1003,CAT 3,Diamond Creek Primary School,Government,17 Clyde Street,Diamond Creek,Nillumbik,Central
+75,8746,CAT 3,Diamond Valley College,Government,165-179 Main Hurstbridge Road,Diamond Creek,Nillumbik,Central
+76,5161,CAT 3,Diamond Valley Special Developmental School,Government,14-24 Brentwick Drive,Greensborough,Nillumbik,Central
+77,7770,CAT 3,Dimboola Memorial Secondary College,Government,66 Ellerman Street,Dimboola,Hindmarsh,Wimmera
+78,3956,CAT 3,Don Valley Primary School,Government,Old Dalry Road,Don Valley,Yarra Ranges,Central
+79,1724,CAT 3,Donvale Christian College,Independent,155 Tindals Road,Donvale,Manningham,Central
+80,945,CAT 3,Doreen Primary School,Government,75 Doctors Gully Road,Doreen,Nillumbik,Central
+81,7122,CAT 3,Dromana Secondary College,Government,110 Harrisons Road,Dromana,Mornington Peninsula,Central
+82,6215,CAT 3,Dunkeld Consolidated School,Government,93 Victoria Valley Road,Dunkeld,Southern Grampians,South West
+83,1582,CAT 3,Dunolly Primary School,Government,8 Elgin Street,Dunolly,Central Goldfields,North Central
+84,1428,CAT 2,Eaglehawk North Primary School,Government,1-9 Bendigo-Pyramid Road,Eaglehawk,Greater Bendigo,Northern Country
+85,7790,CAT 3,Eaglehawk Secondary College,Government,1-3 Reserve Street,Eaglehawk,Greater Bendigo,Northern Country
+86,1422,CAT 3,Edi Upper Primary School,Government,832 Edi-Cheshunt Road,Edi Upper,Wangaratta,North East
+87,2104,CAT 3,Edinburgh College,Independent,33-61 Edinburgh Road,Lilydale,Yarra Ranges,Central
+88,220,CAT 3,Elphinstone Primary School,Government,26 Wright Street,Elphinstone,Mount Alexander,North Central
+89,1714,CAT 3,Eltham College - Main Campus,Independent,1660 Main Road,Research,Nillumbik,Central
+90,4212,CAT 3,Eltham North Primary School,Government,35-47 Wattletree Road,Eltham North,Nillumbik,Central
+91,209,CAT 3,Eltham Primary School,Government,Dalton Street,Eltham,Nillumbik,Central
+92,3381,CAT 3,Emerald Primary School,Government,10 Heroes Avenue,Emerald,Cardinia,Central
+93,8707,CAT 2,Emerald Secondary College,Government,425 Belgrave-gembrook Rd,Emerald,Cardinia,Central
+94,2048,CAT 3,Emmaus Catholic Primary School,Catholic,1503 Geelong Road,Mount Clear,Ballarat,Central
+95,1788,CAT 3,Eppalock Primary School,Government,149 Patons Road,Axe Creek,Greater Bendigo,Northern Country
+96,2367,CAT 3,Epsom Primary School,Government,Howard Street,Epsom,Greater Bendigo,Northern Country
+97,2318,CAT 3,Eskdale Primary School,Government,3790 Omeo Highway,Eskdale,Towong,North East
+98,5067,CAT 3,Falls Creek Primary School,Government,15 Slalom Street,Falls Creek,Unincorporated Vic,North East
+99,3228,CAT 2,Ferny Creek Primary School,Government,School Road,Ferny Creek,Yarra Ranges,Central
+100,3098,CAT 3,Flowerdale Primary School,Government,3377 Whittlesea Yea Road,Flowerdale,Murrindindi,North Central
+101,2708,CAT 2,Forrest Primary School,Government,10 Grant Street,Forrest,Colac-Otway,South West
+102,1988,CAT 3,Freshwater Creek Steiner School,Independent,52 McIntyres Road,Freshwater Creek,Surf Coast,Central
+103,2506,CAT 3,Gembrook Primary School,Government,50 Main Street,Gembrook,Cardinia,Central
+104,1856,CAT 3,Ghilgai School,Independent,295 Liverpool Road,Kilsyth,Yarra Ranges,Central
+105,1989,CAT 3,Gisborne Montessori School,Independent,57 Barringo Road,New Gisborne,Macedon Ranges,Central
+106,7857,CAT 3,Gisborne Secondary College,Government,95 Melton Road,Gisborne,Macedon Ranges,Central
+107,3982,CAT 3,Gladysdale Primary School,Government,550 Little Yarra Road,Gladysdale,Yarra Ranges,Central
+108,1135,CAT 3,Glen Park Primary School,Government,265 Ralstons Road,Glen Park,Moorabool,Central
+109,1742,CAT 3,Glenrowan Primary School,Government,40 Beaconsfield Parade,Glenrowan,Wangaratta,North East
+110,1598,CAT 3,Goornong Primary School,Government,26 Grant Street,Goornong,Greater Bendigo,Northern Country
+111,5442,CAT 3,Gormandale And District Primary School,Government,38 Main Street,Gormandale,Wellington,West and South Gippsland
+112,860,CAT 3,Great Western Primary School,Government,Stephenson Street,Great Western,Northern Grampians,Wimmera
+113,5398,CAT 3,Greta Valley Primary School,Government,2376 Wangaratta Kilfeera Road,Greta South,Wangaratta,North East
+114,3058,CAT 2,Halls Gap Primary School,Government,10-14 School Road,Halls Gap,Northern Grampians,Wimmera
+115,5404,CAT 3,Harcourt Valley Primary School,Government,3 Wilkinson Street,Harcourt,Mount Alexander,North Central
+116,1697,CAT 2,Harkaway Primary School,Government,65-67 King Road,Harkaway,Casey,Central
+117,843,CAT 2,Harrietville Primary School,Government,165 Great Alpine Road,Harrietville,Alpine,North East
+118,1098,CAT 3,Hastings Primary School,Government,10 - 20 Hodgins Road,Hastings,Mornington Peninsula,Central
+119,5434,CAT 3,Hawkesdale P12 College,Government,65 Mitchell Street,Hawkesdale,Moyne,South West
+120,7900,CAT 3,Healesville High School,Government,10 Camerons Road,Healesville,Yarra Ranges,Central
+121,849,CAT 3,Healesville Primary School,Government,2 View Street,Healesville,Yarra Ranges,Central
+122,300,CAT 3,Heathcote Primary School,Government,31 Herriot Street,Heathcote,Greater Bendigo,Northern Country
+123,767,CAT 3,Hepburn Primary School,Government,156 Main Road,Hepburn,Hepburn,Central
+124,1004,CAT 2,Hesket Primary School,Government,800 Romsey Road,Hesket,Macedon Ranges,Central
+125,6225,CAT 3,Heywood Consolidated School,Government,51 Kentbruck Road,Heywood,Glenelg,South West
+126,7910,CAT 3,Heywood District Secondary College,Government,Gorrie Street,Heywood,Glenelg,South West
+127,2541,CAT 3,Hoddles Creek Primary School,Government,700 Gembrook-Launching Place Road,Hoddles Creek,Yarra Ranges,Central
+128,1955,CAT 3,Holy Cross Primary School,Catholic,158 Hamilton Road,New Gisborne,Macedon Ranges,Central
+129,1252,CAT 3,Holy Rosary School,Catholic,18 Pohlman Street,Heathcote,Greater Bendigo,Northern Country
+130,306,CAT 3,Huntly Primary School,Government,101 Brunel Street,Huntly,Greater Bendigo,Northern Country
+131,3939,CAT 3,Hurstbridge Primary School,Government,961-989 Heidelberg-Kinglake Rd,Hurstbridge,Nillumbik,Central
+132,1052,CAT 3,Inglewood Primary School,Government,77 Sullivan Street,Inglewood,Loddon,Northern Country
+133,882,CAT 3,Invermay Primary School,Government,187 Swinglers Road,Invermay,Ballarat,Central
+134,814,CAT 2,Jamieson Primary School,Government,1 The Sideling,Jamieson,Mansfield,North East
+135,1951,CAT 3,Jindivick Primary School,Government,1080 Jacksons Track,Jindivick,Baw Baw,Central
+136,4728,CAT 3,Kalianna Special School,Government,Nolan Street,Bendigo,Greater Bendigo,Northern Country
+137,3993,CAT 2,Kallista Primary School,Government,72 Monbulk Road,Kallista,Yarra Ranges,Central
+138,2105,CAT 3,Kangaroo Ground Primary School,Government,Cr Graham&Eltham-Yarra Glen Rd,Kangaroo Ground,Nillumbik,Central
+139,2188,CAT 2,Kinglake Primary School,Government,20 Mcmahons Rd,Kinglake,Murrindindi,North Central
+140,3255,CAT 2,Kinglake West Primary School,Government,1041-1061 Whittlesea-Kinglake Rd,Kinglake West,Murrindindi,North Central
+141,2265,CAT 3,Koondrook Primary School,Government,9 Punt Road,Koondrook,Gannawarra,Mallee
+142,3470,CAT 3,Koorlong Primary School,Government,3645 Benetook Avenue,Koorlong,Mildura,Mallee
+143,2471,CAT 3,Labertouche Primary School,Government,35 School Road,Labertouche,Baw Baw,Central
+144,2805,CAT 3,Laharum Primary School,Government,1574 Northern Grampians Road,Laharum,Horsham,Wimmera
+145,863,CAT 3,Lal Lal Primary School,Government,12 Vaughan Street,Lal Lal,Moorabool,Central
+146,707,CAT 3,Lancefield Primary School,Government,80 High Street,Lancefield,Macedon Ranges,Central
+147,1275,CAT 3,Langley Primary School,Government,Crn Kyneton/Heathcote & Parsells Rd,Langley,Mount Alexander,North Central
+148,2599,CAT 3,Launching Place Primary School,Government,Carter Street,Launching Place,Yarra Ranges,Central
+149,6231,CAT 1,Lavers Hill K-12 College,Government,Great Ocean Road,Lavers Hill,Colac-Otway,South West
+150,1721,CAT 3,Learning Co-Operative School,Independent,10 Laceys Road,Hurstbridge,Nillumbik,Central
+151,5541,CAT 3,Lightning Reef Primary School,Government,74 Holmes Road,Bendigo,Greater Bendigo,Northern Country
+152,880,CAT 2,Linton Primary School,Government,28 Adair Street,Linton,Golden Plains,Central
+153,2093,CAT 2,Little Bendigo Primary School,Government,8 Monte Street,Nerrina,Ballarat,Central
+154,1914,CAT 3,Little Yarra Steiner School,Independent,205 Little Yarra Road,Yarra Junction,Yarra Ranges,Central
+155,5245,CAT 3,Loch Sport Primary School,Government,7 Charlies Street,Loch Sport,Wellington,West and South Gippsland
+156,744,CAT 3,Lockwood Primary School,Government,190 Wiegards Road,Lockwood,Greater Bendigo,Northern Country
+157,385,CAT 3,Lockwood South Primary School,Government,710 Calder Alternative Highway,Lockwood South,Greater Bendigo,Northern Country
+158,1694,CAT 3,Longford Primary School,Government,6380 South Gippsland Highway,Longford,Wellington,West and South Gippsland
+159,2707,CAT 3,Longwood Primary School,Government,1-21 Hurley Street,Longwood,Strathbogie,Northern Country
+160,7997,CAT 3,Lorne P-12 College,Government,15 Grove Road,Lorne,Surf Coast,Central
+161,1571,CAT 3,Macarthur Primary School,Government,23 Russell Street,Macarthur,Moyne,South West
+162,3620,CAT 3,Macclesfield Primary School,Government,405 Macclesfield Road,Macclesfield,Yarra Ranges,Central
+163,1660,CAT 2,Macedon Primary School,Government,67 Smith Street,Macedon,Macedon Ranges,Central
+164,1592,CAT 3,Maiden Gully Primary School,Government,10 Carolyn Way,Maiden Gully,Greater Bendigo,Northern Country
+165,1254,CAT 3,Maldon Primary School,Government,109 High Street,Maldon,Mount Alexander,North Central
+166,3515,CAT 3,Mallacoota P-12 College,Government,25 Bucknall Street,Mallacoota,East Gippsland,East Gippsland
+167,1408,CAT 3,Malmsbury Primary School,Government,28 Cameron Street,Malmsbury,Macedon Ranges,Central
+168,6235,CAT 3,Manangatang P-12 College,Government,4105 Mallee Highway,Manangatang,Swan Hill,Mallee
+169,2098,CAT 3,Marist College Bendigo,Catholic,95 Golf Links Road,Maiden Gully,Greater Bendigo,Northern Country
+170,3433,CAT 3,Marlo Primary School,Government,Jorgensen Street,Marlo,East Gippsland,East Gippsland
+171,1554,CAT 3,Marnoo Primary School,Government,80 Newall Street,Marnoo,Northern Grampians,Wimmera
+172,400,CAT 3,Marong Primary School,Government,2 Leslie Street,Marong,Greater Bendigo,Northern Country
+173,1943,CAT 3,Maroona Primary School,Government,7431 Mortlake-ararat Road,Maroona,Ararat,South West
+174,1273,CAT 3,Marysville Primary School,Government,15 Falls Road,Marysville,Murrindindi,North Central
+175,1644,CAT 3,Mater Christi College,Catholic,28 Bayview Road,Belgrave,Yarra Ranges,Central
+176,2457,CAT 3,Menzies Creek Primary School,Government,12 School Road,Menzies Creek,Yarra Ranges,Central
+177,6237,CAT 3,Merino Consolidated School,Government,49 Paschendale Road,Merino,Glenelg,South West
+178,1379,CAT 3,Merrijig Primary School,Government,1820 Mount Buller Road,Merrijig,Mansfield,North East
+179,3050,CAT 2,Metung Primary School,Government,90 Stirling Road,Metung,East Gippsland,East Gippsland
+180,1115,CAT 3,Middle Indigo Primary School,Government,710 Indigo Creek Road,Indigo Valley,Indigo,North East
+181,3315,CAT 2,Middle Kinglake Primary School,Government,69 Extons Road,Kinglake Central,Murrindindi,North Central
+182,5441,CAT 3,Millwarra Primary School - Millgrove Campus,Government,Cavanagh Road,Millgrove,Yarra Ranges,Central
+183,2383,CAT 3,Mirboo North Primary School,Government,Balook Street,Mirboo North,South Gippsland,West and South Gippsland
+184,8050,CAT 3,Mirboo North Secondary College,Government,Castle Street,Mirboo North,South Gippsland,West and South Gippsland
+185,887,CAT 2,Mitta Mitta Primary School,Government,27 Giltrap Road,Mitta Mitta,Towong,North East
+186,8065,CAT 2,Monbulk College,Government,146-148 David Hill Road,Monbulk,Yarra Ranges,Central
+187,3265,CAT 3,Monbulk Primary School,Government,1 Main Road,Monbulk,Yarra Ranges,Central
+188,2259,CAT 3,Montrose Primary School,Government,17-21 Leith Road,Montrose,Yarra Ranges,Central
+189,1612,CAT 3,Mooroopna North Primary School,Government,835 Ardmona Road,Mooroopna,Greater Shepparton,Northern Country
+190,5376,CAT 3,Mortlake P-12 College,Government,10 Hood Avenue,Mortlake,Moyne,South West
+191,4644,CAT 3,Mount Beauty Primary School,Government,Lakeside Avenue,Mount Beauty,Alpine,North East
+192,8100,CAT 3,Mount Beauty Secondary College,Government,Tailrace Road,Mount Beauty,Alpine,North East
+193,7267,CAT 3,Mount Clear College,Government,59 Olympic Avenue,Mount Clear,Ballarat,Central
+194,427,CAT 3,Mount Clear Primary School,Government,1206 Geelong Road,Mount Clear,Ballarat,Central
+195,3284,CAT 2,Mount Dandenong Primary School,Government,Farndons Road,Mount Dandenong,Yarra Ranges,Central
+196,1918,CAT 3,Mount Egerton Primary School,Government,58 Church Street,Mount Egerton,Moorabool,Central
+197,5140,CAT 3,Mount Eliza North Primary School,Government,6 Moseley Drive,Mount Eliza,Mornington Peninsula,Central
+198,1701,CAT 3,Mount Evelyn Christian School/Ranges TEC,Independent,135 York Road,Mount Evelyn,Yarra Ranges,Central
+199,3642,CAT 3,Mount Evelyn Primary School,Government,33 Monbulk Road,Mount Evelyn,Yarra Ranges,Central
+200,415,CAT 1,Mount Macedon Primary School,Government,641 Mount Macedon Road,Mount Macedon,Macedon Ranges,Central
+201,5171,CAT 3,Mount Martha Primary School,Government,37 - 55 Glenisla Drive,Mount Martha,Mornington Peninsula,Central
+202,1263,CAT 3,Moyston Primary School,Government,1349 Ararat-Halls Gap Road,Moyston,Ararat,South West
+203,5433,CAT 3,Murrayville Community College,Government,20 Francis Street,Murrayville,Mildura,Mallee
+204,2677,CAT 1,Myrrhee Primary School,Government,1673 Benalla-whitfield Road,Myrrhee,Wangaratta,North East
+205,5402,CAT 3,Nangiloc Colignan and District Primary School,Government,2612 Kulkyne Way,Nangiloc,Mildura,Mallee
+206,2295,CAT 3,Narracan Primary School,Government,32 School Road,Narracan,Baw Baw,Central
+207,1330,CAT 3,Navarre Primary School,Government,High Street,Navarre,Northern Grampians,Wimmera
+208,1913,CAT 3,Newham Primary School,Government,1271 Rochford Road,Newham,Macedon Ranges,Central
+209,2930,CAT 3,Newmerella Primary School,Government,2-4 McLaughlins Road,Newmerella,East Gippsland,East Gippsland
+210,452,CAT 3,Newstead Primary School,Government,28 Lyons Street,Newstead,Mount Alexander,North Central
+211,1716,CAT 3,Nicholson Primary School,Government,Princes Highway,Nicholson,East Gippsland,East Gippsland
+212,4226,CAT 2,Nungurner Primary School,Government,455 Nungurner Road,Nungurner,East Gippsland,East Gippsland
+213,3494,CAT 2,Olinda Primary School,Government,45 Charlemont Lane,Olinda,Yarra Ranges,Central
+214,1793,CAT 3,Olivet Christian College,Independent,89 Main Rd,Campbells Creek,Mount Alexander,North Central
+215,831,CAT 2,Omeo Primary School,Government,167 Day Avenue,Omeo,East Gippsland,East Gippsland
+216,1463,CAT 2,Osbornes Flat Primary School,Government,354 Osbornes Flat Road,Osbornes Flat,Indigo,North East
+217,7618,CAT 2,Outdoor School - Outdoor School Bogong,Government,1 Black Possum Road,Bogong,Alpine,North East
+218,8220,CAT 3,Ouyen P-12 College,Government,1-35 Fuller Street,Ouyen,Mildura,Mallee
+219,1134,CAT 3,Panton Hill Primary School,Government,585 Kangaroo Grd-St Andrews Rd,Panton Hill,Nillumbik,Central
+220,4854,CAT 3,Park Orchards Primary School,Government,1-3 Bowmore Avenue,Park Orchards,Manningham,Central
+221,1610,CAT 3,Peninsula Grammar,Independent,20 Wooralla Drive,Mt Eliza,Mornington Peninsula,Central
+222,5230,CAT 3,Peninsula Specialist College,Government,25 Old White Hill Road,Dromana,Mornington Peninsula,Central
+223,3261,CAT 2,Perseverance Primary School,Government,Centreway,French Island,Unincorporated Vic,Central
+224,3322,CAT 3,Point Lonsdale Primary School,Government,22 Bowen Road,Point Lonsdale,Queenscliffe,Central
+225,2859,CAT 2,Pomonal Primary School,Government,2859 Ararat - Halls Gap Road,Pomonal,Ararat,South West
+226,1144,CAT 3,Porepunkah Primary School,Government,2 Martley Street,Porepunkah,Alpine,North East
+227,1855,CAT 3,Puckapunyal Primary School,Government,Alamein Road,Puckapunyal,Mitchell,North Central
+228,2005,CAT 3,Pyalong Primary School,Government,10-14 Bourke Street,Pyalong,Mitchell,North Central
+229,1165,CAT 3,Quarry Hill Primary School,Government,25 Peel Street,Quarry Hill,Greater Bendigo,Northern Country
+230,5389,CAT 1,Rawson Primary School,Government,Knotts Siding Road,Rawson,Baw Baw,Central
+231,1844,CAT 3,Raywood Primary School,Government,18-22 Sandhurst Street,Raywood,Greater Bendigo,Northern Country
+232,6249,CAT 3,Red Hill Consolidated School,Government,341 Arthurs Seat Road,Red Hill,Mornington Peninsula,Central
+233,2571,CAT 3,Redesdale Mia Mia Primary School,Government,31 School Road,Redesdale,Greater Bendigo,Northern Country
+234,528,CAT 3,Riddells Creek Primary School,Government,69-77 Main Road,Riddells Creek,Macedon Ranges,Central
+235,8294,CAT 3,Rubicon Outdoor Centre - Thornton Campus,Government,264 Rubicon Road,Thornton,Murrindindi,North Central
+236,6238,CAT 2,Rushworth P-12 College,Government,45 Heily Street,Rushworth,Campaspe,Northern Country
+237,413,CAT 3,Sacred Heart School - Glenelg,Catholic,39 Robertson Street,Casterton,Glenelg,South West
+238,1623,CAT 3,Sacred Heart School - Nillumbik,Catholic,25 Gipson Street,Diamond Creek,Nillumbik,Central
+239,3222,CAT 2,Sassafras Primary School,Government,399 Mt Dandenong Tourist Road,Sassafras,Yarra Ranges,Central
+240,4324,CAT 3,Seaspray Primary School,Government,15 Prospect Road,Seaspray,Wellington,West and South Gippsland
+241,4685,CAT 2,Selby Primary School,Government,2 Morley Street,Selby,Yarra Ranges,Central
+242,2820,CAT 3,Seville Primary School,Government,639 Warburton Highway,Seville,Yarra Ranges,Central
+243,6252,CAT 2,Sherbrooke Community School,Government,311 Mt Dandenong Tourist Road,Sassafras,Yarra Ranges,Central
+244,2246,CAT 3,Sidrah Gardens School,Independent,434-442 Belgrave-Hallam Road ,NARRE WARREN NORTH,Casey ,Central
+245,1801,CAT 3,Silvan Primary School,Government,269 Monbulk Road,Silvan,Yarra Ranges,Central
+246,4895,CAT 3,Simpson Primary School,Government,1 Cockayne Street,Simpson,Corangamite,South West
+247,4647,CAT 3,Somers School Camp,Government,124 Lord Somers Road,Somers,Mornington Peninsula,Central
+248,1316,CAT 3,Specimen Hill Primary School,Government,Inglewood Street,Golden Square,Greater Bendigo,Northern Country
+249,3505,CAT 3,Spring Gully Primary School,Government,104-110 Spring Gully Road,Bendigo,Greater Bendigo,Northern Country
+250,289,CAT 3,St Ambrose's School,Catholic,14 - 17 Templeton Street,Woodend,Macedon Ranges,Central
+251,128,CAT 1,St Andrews Primary School,Government,Caledonia Street,St Andrews,Nillumbik,Central
+252,1805,CAT 3,St Anne's School,Catholic,60 Knees Road,Park Orchards,Manningham,Central
+253,8335,CAT 3,St Arnaud Secondary College,Government,Smith Street,St Arnaud,Northern Grampians,Wimmera
+254,1857,CAT 3,St Bernadette's Catholic Primary School,Catholic,1264 Mountain Highway,The Basin,Knox,Central
+255,1013,CAT 3,St Brigid's School,Catholic,1 High Street,Healesville,Yarra Ranges,Central
+256,2029,CAT 3,"St Francis of Assisi Primary School, Wodonga",Catholic,214 Baranduda Boulevard,Baranduda,Wodonga,North East
+257,1940,CAT 3,St Francis of the Fields School,Catholic,Blucher Street,Strathfieldsaye,Greater Bendigo,Northern Country
+258,981,CAT 3,St Francis Xavier School,Catholic,Fortune Street,Ballarat East,Ballarat,Central
+259,672,CAT 3,St Joseph's School,Catholic,6 Priory Lane,Beechworth,Indigo,North East
+260,367,CAT 3,St Joseph's School,Catholic,142 North Road,Chiltern,Indigo,North East
+261,1260,CAT 3,St Joseph's School,Catholic,17 Martin Street,Crib Point,Mornington Peninsula,Central
+262,1579,CAT 3,St Joseph's School,Catholic,40 Milners Road,Yarra Junction,Yarra Ranges,Central
+263,191,CAT 3,St Mary's School,Catholic,2 Raglan Street,Lancefield,Macedon Ranges,Central
+264,1804,CAT 3,St Mary's School,Catholic,58 Clegg Road,Mount Evelyn,Yarra Ranges,Central
+265,1523,CAT 3,St Mary's School,Catholic,5-7 Southam Street,Rushworth,Campaspe,Northern Country
+266,715,CAT 3,St Michael's School,Catholic,29 Smith Street,Daylesford,Hepburn,Central
+267,204,CAT 3,St Monica's School,Catholic,91 High Street,Kangaroo Flat,Greater Bendigo,Northern Country
+268,227,CAT 3,St Patrick's School,Catholic,Wattle Street,St Arnaud,Northern Grampians,Wimmera
+269,1897,CAT 3,St Paul Apostle North School,Catholic,76 Mossgiel Park Drive,Endeavour Hills,Casey,Central
+270,1879,CAT 3,St Paul's School,Catholic,59 Moores Road,Monbulk,Yarra Ranges,Central
+271,1577,CAT 3,St Peter's Lutheran School,Independent,6-26 Horsham Road,Dimboola,Hindmarsh,Wimmera
+272,1618,CAT 3,St Thomas More's School,Catholic,Reynold's Lane,Belgrave,Yarra Ranges,Central
+273,1822,CAT 3,St Thomas More's School,Catholic,313 Canadian Bay Road,Mount Eliza,Mornington Peninsula,Central
+274,3947,CAT 2,Strathewen Primary School,Government,5 School Ridge Road,Strathewen,Nillumbik,Central
+275,1211,CAT 3,Strathfieldsaye Primary School,Government,9 Uxbridge Street,Strathfieldsaye,Greater Bendigo,Northern Country
+276,1631,CAT 3,Swan Reach Primary School,Government,21 School Road,Swan Reach,East Gippsland,East Gippsland
+277,954,CAT 3,Talbot Primary School,Government,2 Rowe Street,Talbot,Central Goldfields,North Central
+278,1954,CAT 3,Talgarno Primary School,Government,14 Talgarno School Lane,Talgarno,Towong,North East
+279,2216,CAT 3,Tambo Upper Primary School,Government,890 Tambo Upper Road,Tambo Upper,East Gippsland,East Gippsland
+280,614,CAT 3,Taradale Primary School,Government,98 High Street,Taradale,Mount Alexander,North Central
+281,1023,CAT 3,Tarnagulla Primary School,Government,51 Stanley Street,Tarnagulla,Loddon,Northern Country
+282,4275,CAT 3,Tarwin Lower Primary School,Government,School Road,Tarwin Lower,South Gippsland,West and South Gippsland
+283,2282,CAT 3,Tawonga Primary School,Government,Kiewa Valley Highway,Tawonga,Alpine,North East
+284,3356,CAT 3,Tecoma Primary School,Government,1536 Burwood Highway,Tecoma,Yarra Ranges,Central
+285,5386,CAT 3,Tempy Primary School,Government,13 Harrison Street,Tempy,Yarriambiack,Mallee
+286,8837,CAT 1,The Alpine School - Dinner Plain Campus,Government,Great Alpine Road,Dinner Plain,Alpine,North East
+287,2329,CAT 3,The Basin Primary School,Government,Cnr Liverpool Road & Mountain Highway,The Basin,Knox,Central
+288,5173,CAT 2,The Patch Primary School,Government,53 Kallista-Emerald Road,The Patch,Yarra Ranges,Central
+289,6260,CAT 3,Timboon P-12 School,Government,Bailey Street,Timboon,Corangamite,South West
+290,1207,CAT 3,Timor Primary School,Government,395 Bet Bet Creek Road,Timor,Central Goldfields,North Central
+291,1225,CAT 3,Tooborac Primary School,Government,5185 Northern Highway,Tooborac,Mitchell,North Central
+292,1455,CAT 3,Toolamba Primary School,Government,69-77 Wren Street,Toolamba,Greater Shepparton,Northern Country
+293,3237,CAT 2,Toolangi Primary School,Government,Main Road,Toolangi,Murrindindi,North Central
+294,5414,CAT 3,Toolern Vale and District Primary School,Government,361 Creamery Road,Toolern Vale,Melton,Central
+295,3968,CAT 3,Toorloo Arm Primary School,Government,315 Lake Tyers Beach Road,Lake Tyers Beach,East Gippsland,East Gippsland
+296,2114,CAT 3,Traralgon South Primary School,Government,13 - 19 Keith Morgan Drive,Traralgon South,Latrobe,East Gippsland
+297,1588,CAT 3,Trentham District Primary School,Government,8 Bridge Street,Trentham,Hepburn,Central
+298,3129,CAT 3,Tyabb Primary School,Government,186 Mornington-Tyabb Road,Tyabb,Mornington Peninsula,Central
+299,2182,CAT 3,Tyers Primary School,Government,Main Road,Tyers,Latrobe,East Gippsland
+300,621,CAT 3,Tylden Primary School,Government,11 Clowes Street,Tylden,Macedon Ranges,Central
+301,3426,CAT 3,Ultima Primary School,Government,Cnr Cameron & O'Connor Street,Ultima,Swan Hill,Mallee
+302,3819,CAT 3,Underbool Primary School,Government,67 Cotter Street,Underbool,Mildura,Mallee
+303,1244,CAT 3,Upper Plenty Primary School,Government,10 Clarkes Road,Upper Plenty,Mitchell,North Central
+304,3145,CAT 3,Upper Sandy Creek Primary School,Government,1037 Sandy Creek Road,Sandy Creek,Indigo,North East
+305,8410,CAT 3,Upper Yarra Secondary College,Government,81-89 Little Yarra Road,Yarra Junction,Yarra Ranges,Central
+306,8415,CAT 3,Upwey High School,Government,1451 Burwood Highway,Upwey,Yarra Ranges,Central
+307,4530,CAT 3,Upwey Primary School,Government,15 Darling Avenue,Upwey,Yarra Ranges,Central
+308,4894,CAT 3,Upwey South Primary School,Government,91 Morris Road,Upwey,Yarra Ranges,Central
+309,1946,CAT 3,Victory Christian College,Independent,6 Kairn Road,Strathdale,Greater Bendigo,Northern Country
+310,1836,CAT 3,Village School,Independent,9-13 Holloway Road,Croydon North,Maroondah,Central
+311,3345,CAT 3,Wallington Primary School,Government,608 - 610 Wallington Road,Wallington,Greater Geelong,Central
+312,275,CAT 2,Wandiligong Primary School,Government,119 School Road,Wandiligong,Alpine,North East
+313,3892,CAT 3,Wandin North Primary School,Government,220 Warburton Highway,Wandin North,Yarra Ranges,Central
+314,1033,CAT 3,Wandin Yallock Primary School,Government,105 Beenak Road,Wandin North,Yarra Ranges,Central
+315,1277,CAT 3,Wandong Primary School,Government,39-51 Rail Street,Wandong,Mitchell,North Central
+316,643,CAT 3,Wangaratta Primary School,Government,19 Chisholm Street,Wangaratta,Wangaratta,North East
+317,1485,CAT 2,Warburton Primary School,Government,16 Horners Road,Warburton,Yarra Ranges,Central
+318,8437,CAT 3,Warrandyte High School,Government,241-247 Heidelberg-Warrandyte Rd,Warrandyte,Manningham,Central
+319,12,CAT 1,Warrandyte Primary School,Government,5-11 Forbes Street,Warrandyte,Manningham,Central
+320,4060,CAT 3,Wattle Glen Primary School,Government,16-24 Reynolds Road,Wattle Glen,Nillumbik,Central
+321,859,CAT 3,Waubra Primary School,Government,2110 Sunraysia Highway,Waubra,Pyrenees,South West
+322,6257,CAT 3,Werrimull P-12 School,Government,5 McDonald Street,Werrimull,Mildura,Mallee
+323,3466,CAT 2,Wesburn Primary School,Government,2850 Warburton Highway,Wesburn,Yarra Ranges,Central
+324,7893,CAT 3,Western Port Secondary College,Government,215 High Street,Hastings,Mornington Peninsula,Central
+325,1473,CAT 3,Whitefriars College Inc,Catholic,156 Park Road,Donvale,Manningham,Central
+326,5397,CAT 3,Whitfield District Primary School,Government,6182 Mansfield Road,Whitfield,Wangaratta,North East
+327,2520,CAT 3,Willow Grove Primary School,Government,39-45 Moe-Willow Grove Road,Willow Grove,Baw Baw,Central
+328,652,CAT 3,Winters Flat Primary School,Government,3 Roberts Avenue,Castlemaine,Mount Alexander,North Central
+329,3241,CAT 3,Wonga Park Primary School,Government,Dudley Road,Wonga Park,Manningham,Central
+330,647,CAT 3,Woodend Primary School,Government,146 High Street,Woodend,Macedon Ranges,Central
+331,648,CAT 3,Woodford Primary School,Government,8 Victoria Street,Woodford,Warrnambool,South West
+332,5319,CAT 3,Woodlands Primary School,Government,10 Gum Nut Drive,Langwarrin,Frankston,Central
+333,1176,CAT 3,Woodside Primary School,Government,41 Beach Road,Woodside,Wellington,West and South Gippsland
+334,653,CAT 2,Wooragee Primary School,Government,1011 Beechworth-Wodonga Road,Wooragee,Indigo,North East
+335,5439,CAT 3,Woorinen District Primary School,Government,49 Palmer Street,Woorinen South,Swan Hill,Mallee
+336,1868,CAT 3,Worawa Aboriginal College,Independent,60 - 80 Barak Lane,Healesville,Yarra Ranges,Central
+337,1938,CAT 3,Wunghnu Primary School,Government,Brunton Street,Wunghnu,Moira,Northern Country
+338,2518,CAT 3,Wurruk Primary School,Government,13 -19 Fisk Street,Wurruk,Wellington,West and South Gippsland
+339,1103,CAT 3,Yackandandah Primary School,Government,39 High Street,Yackandandah,Indigo,North East
+340,691,CAT 2,Yandoit Primary School,Government,74 High Street,Yandoit,Hepburn,Central
+341,3216,CAT 3,Yarra Junction Primary School,Government,2370 Warburton Highway,Yarra Junction,Yarra Ranges,Central
+342,5246,CAT 2,Yarra Ranges Special Developmental School,Government,20 Burdap Drive,Mount Evelyn,Yarra Ranges,Central
+343,2054,CAT 3,Yarrambat Primary School,Government,552 Yan Yean Road,Yarrambat,Nillumbik,Central
+344,1034,CAT 3,Yering Primary School,Government,22-24 Melba Highway,Yering,Yarra Ranges,Central
+345,2730,CAT 3,Yinnar South Primary School,Government,Brewsters Road,Yinnar South,Latrobe,East Gippsland
+346,2017,CAT 4,Buln Buln Primary School,Government,15 Old Sale Road,Buln Buln,Baw Baw,West and South Gippsland
+347,4169,CAT 4,Airly Primary School,Government,226 Airly Estate Road,Airly,Wellington,West and South Gippsland
+348,2061,CAT 4,Al Siraat College,Independent,45 Harvest Home Road,Epping,Whittlesea,Central
+349,1,CAT 4,Alberton Primary School,Government,21 Thomson Street,Alberton,Wellington,West and South Gippsland
+350,5043,CAT 4,Aldercourt Primary School,Government,Silver Avenue,Frankston North,Frankston,Central
+351,607,CAT 4,All Saints Parish School,Catholic,Fawthrop Street,Portland South,Glenelg,South West
+352,3,CAT 4,Allansford and District Primary School,Government,Frank Street,Allansford,Warrnambool,South West
+353,1563,CAT 4,Ardmona Primary School,Government,580 Turnbull Road,Ardmona,Greater Shepparton,Northern Country
+354,2086,CAT 4,Australian Christian College Hume,Independent,21 Sydney Road,Benalla,Benalla,North East
+355,4,CAT 4,Avoca Primary School,Government,118 Barnett Street,Avoca,Pyrenees,South West
+356,1008,CAT 4,Axedale Primary School,Government,81 High Street,Axedale,Greater Bendigo,Northern Country
+357,1919,CAT 4,Bacchus Marsh Grammar - Maddingley Campus,Independent,34 South Maddingley Road,Bacchus Marsh,Moorabool,Central
+358,1969,CAT 4,Bairnsdale Christian Community School,Independent,101 Bairnsdale/Dargo Road,Bairnsdale,East Gippsland,East Gippsland
+359,2045,CAT 4,Ballarat Christian College,Independent,Yarrowee & Vickers Streets,Sebastopol,Ballarat,Central
+360,8872,CAT 4,Balmoral K-12 Community College,Government,1831 Harrow Balmoral Road,Balmoral,Southern Grampians,South West
+361,4691,CAT 4,Bandiana Primary School,Government,44 Leumeah Road,Bandiana,Wodonga,North East
+362,1574,CAT 4,Barwon Heads Primary School,Government,Golf Links Road,Barwon Heads,Greater Geelong,Central
+363,8736,CAT 4,Bass Coast College - Wonthaggi Campus,Government,2 McKenzie Street,Wonthaggi,Bass Coast,Central
+364,8859,CAT 4,Bass Coast Specialist School,Government,6 Mckenzie Street,Wonthaggi,Bass Coast,Central
+365,3023,CAT 4,Baxter Primary School,Government,Grant Road,Baxter,Mornington Peninsula,Central
+366,5421,CAT 4,Bayles Regional Primary School,Government,3730 Ballarto Road,Bayles,Cardinia,Central
+367,60,CAT 4,Beaufort Primary School,Government,2/37 Park Road,Beaufort,Pyrenees,South West
+368,7565,CAT 4,Beaufort Secondary College,Government,1/37 Park Road,Beaufort,Pyrenees,South West
+369,482,CAT 4,Beeac Primary School,Government,35 Lang Street,Beeac,Colac-Otway,South West
+370,8250,CAT 4,Bellarine Secondary College - Drysdale Campus,Government,Peninsula Drive,Drysdale,Greater Geelong,Central
+371,2319,CAT 4,Darnum Primary School,Government,6 Graham Street,Darnum,Baw Baw,West and South Gippsland
+372,7603,CAT 4,Berwick Secondary College,Government,Manuka Road,Berwick,Casey,Central
+373,5407,CAT 4,Beverford District Primary School,Government,20 School Road,Beverford,Swan Hill,Mallee
+374,1816,CAT 4,Billanook College,Independent,197-199 Cardigan Road,Mooroolbark,Yarra Ranges,Central
+375,8832,CAT 4,Birchip P-12 School,Government,43-47 Campbell Street,Birchip,Buloke,Mallee
+376,6207,CAT 4,Boisdale Consolidated School,Government,69 Newry Road,Boisdale,Wellington,West and South Gippsland
+377,1070,CAT 4,Bolinda Primary School,Government,1 Mullalys Road,Bolinda,Macedon Ranges,Central
+378,1184,CAT 4,Boneo Primary School,Government,582 Boneo Road,Boneo,Mornington Peninsula,Central
+379,2063,CAT 4,"Borinya, Wangaratta Community Partnership",Catholic,30 College Street,Wangaratta,Wangaratta,North East
+380,5224,CAT 4,Botanic Ridge Primary School,Government,10 Echidna Parade,Botanic Ridge,Casey,Central
+381,5377,CAT 4,Branxholme-Wallacedale Community School,Government,2 Monroe Street,Branxholme,Southern Grampians,South West
+382,1117,CAT 4,Briagolong Primary School,Government,2 Church Street,Briagolong,Wellington,West and South Gippsland
+383,1097,CAT 4,Bridgewater Primary School,Government,34 - 44 Eldon Street,Bridgewater On Loddon,Loddon,Northern Country
+384,5563,CAT 4,Bridgewood Primary School,Government,115 Bridge Road,Officer,Cardinia,Central
+385,7655,CAT 4,Broadford Secondary College,Government,2-12 Pinniger Street,Broadford,Mitchell,North Central
+386,862,CAT 4,Broken Creek Primary School,Government,413 Quinn Road,Broken Creek,Benalla,North East
+387,5392,CAT 4,Bundalaguah Primary School,Government,627 Maffra-Sale Road,Bundalaguah,Wellington,West and South Gippsland
+388,1960,CAT 4,Bungaree Primary School,Government,348 Bungaree-wallace Road,Bungaree,Moorabool,Central
+389,1484,CAT 4,Cape Clear Primary School,Government,1539 Scarsdale-pitfield Road,Cape Clear,Golden Plains,Central
+390,3689,CAT 4,Cardinia Primary School,Government,2405 Ballarto Road,Cardinia,Cardinia,Central
+391,1704,CAT 4,Carraragarmungee Primary School,Government,1005 Wangaratta-Eldorado Road,Londrigan,Wangaratta,North East
+392,7695,CAT 4,Casterton Secondary College,Government,27 Mt Gambier Road,Casterton,Glenelg,South West
+393,1602,CAT 4,Ceres Primary School,Government,605 Barrabool Road,Ceres,Greater Geelong,Central
+394,2313,CAT 4,Drouin South Primary School,Government,3061 Westernport Road,Drouin South,Baw Baw,West and South Gippsland
+395,8830,CAT 4,Charlton College,Government,33 - 49 Davies Street,Charlton,Buloke,Mallee
+396,5194,CAT 4,Chirnside Park Primary School,Government,66 Kimberley Drive,Chirnside Park,Yarra Ranges,Central
+397,2189,CAT 4,Ellinbank Primary School,Government,13 Community Place,Ellinbank,Baw Baw,West and South Gippsland
+398,5280,CAT 4,Clifton Springs Primary School,Government,84-118 Jetty Road,Clifton Springs,Greater Geelong,Central
+399,1552,CAT 4,Clunes Primary School,Government,Canterbury Street,Clunes,Hepburn,Central
+400,3664,CAT 4,Clyde Primary School,Government,13 Oroya Grove,Clyde,Casey,Central
+401,7086,CAT 4,Clyde Secondary College,Government,21 Fernlea Homestead Road ,Clyde,Casey,Central
+402,4387,CAT 4,Cobains Primary School,Government,3 Crofts Road,Cobains,Wellington,West and South Gippsland
+403,7088,CAT 4,Cobden Technical School,Government,Mckenzie Street,Cobden,Corangamite,South West
+404,7735,CAT 4,Cohuna Secondary College,Government,6415 Murray Valley Highway,Cohuna,Gannawarra,Mallee
+405,4775,CAT 4,Colac South West Primary School,Government,238 Wilson Street,Colac,Colac-Otway,South West
+406,3936,CAT 4,Colbinabbin Primary School,Government,56 Mitchell Street,Colbinabbin,Campaspe,Northern Country
+407,5127,CAT 4,Coldstream Primary School,Government,Kelso Street,Coldstream,Yarra Ranges,Central
+408,2118,CAT 4,Coleraine Primary School,Government,124 Church Street,Coleraine,Southern Grampians,South West
+409,5393,CAT 4,Lardner and District Primary School,Government,270 Burnt Store Road,Lardner,Baw Baw,West and South Gippsland
+410,2563,CAT 4,Congupna Primary School,Government,3580 Katamatite Road,Congupna,Greater Shepparton,Northern Country
+411,5292,CAT 4,Coral Park Primary School,Government,145 Coral Drive,Hampton Park,Casey,Central
+412,2076,CAT 4,Cornish College,Independent,65 Riverend Road,Bangholme,Greater Dandenong,Central
+413,8843,CAT 4,Corryong College,Government,27-45 Towong Road,Corryong,Towong,North East
+414,1794,CAT 4,Covenant College,Independent,105 Creamery Road,Bell Post Hill,Greater Geelong,Central
+415,1967,CAT 4,Cowwarr Primary School,Government,Church Street,Cowwarr,Wellington,West and South Gippsland
+416,7748,CAT 4,Cranbourne West Secondary College,Government,80 Strathlea Drive ,Cranbourne West,Casey,Central
+417,122,CAT 4,Creswick Primary School,Government,67 Napier Street,Creswick,Hepburn,Central
+418,105,CAT 4,Cudgee Primary School,Government,3 Hallowells Road,Cudgee,Moyne,South West
+419,8145,CAT 4,Neerim District Secondary College,Government,20 Neerim East Road,Neerim South,Baw Baw,West and South Gippsland
+420,5578,CAT 4,Deanside Primary School,Government,38 Conservatory Drive ,Deanside,Melton,Central
+421,4996,CAT 4,Derinya Primary School,Government,Overport Road,Frankston South,Frankston,Central
+422,1764,CAT 4,Devenish Primary School,Government,76 Main Road,Devenish,Benalla,North East
+423,3924,CAT 4,Devon Meadows Primary School,Government,Worthing Road,Devon Meadows,Casey,Central
+424,3944,CAT 4,Dhurringile Primary School,Government,605 Langham Road,Dhurringile,Greater Shepparton,Northern Country
+425,8397,CAT 4,Dohertys Creek P-9 College,Government,60 Elmhurst Road,Truganina,Wyndham,Central
+426,7775,CAT 4,Donald High School,Government,2-16 Camp Street,Donald,Buloke,Mallee
+427,1527,CAT 4,Dookie Primary School,Government,Baldock Street,Dookie,Greater Shepparton,Northern Country
+428,2432,CAT 4,Neerim South Primary School,Government,180 Main Neerim Road,Neerim South,Baw Baw,West and South Gippsland
+429,2712,CAT 4,Nilma Primary School,Government,76 Bloomfield Road,Nilma,Baw Baw,West and South Gippsland
+430,2129,CAT 4,Ripplebrook Primary School,Government,2260 Westernport Road,Ripplebrook,Baw Baw,West and South Gippsland
+431,2840,CAT 4,Tanjil South Primary School,Government,253 Moe-Willow Grove Road,Tanjil South,Baw Baw,West and South Gippsland
+432,3215,CAT 4,Eagle Point Primary School,Government,43 School Road,Eagle Point,East Gippsland,East Gippsland
+433,6217,CAT 4,East Loddon P-12 College,Government,Dingee Road,Dingee,Loddon,Northern Country
+434,5432,CAT 4,Edenhope College,Government,40-48 Lake Street,Edenhope,West Wimmera,Wimmera
+435,3931,CAT 4,Eildon Primary School,Government,45 High Street,Eildon,Murrindindi,North Central
+436,7082,CAT 4,Elevation Secondary College,Government,199 Elevation Boulevard,Craigieburn,Hume,Central
+437,7805,CAT 4,Eltham High School,Government,30-60 Withers Way,Eltham,Nillumbik,Central
+438,7820,CAT 4,Euroa Secondary College,Government,26 Campbell St,Euroa,Strathbogie,Northern Country
+439,5399,CAT 4,Everton Primary School,Government,2157 Great Alpine Road,Everton,Wangaratta,North East
+440,3423,CAT 4,Exford Primary School,Government,1137 Exford Road,Exford,Melton,Central
+441,2966,CAT 4,Thorpdale Primary School,Government,19 Robinson Street,Thorpdale,Baw Baw,West and South Gippsland
+442,3028,CAT 4,Fish Creek and District Primary School,Government,10 Foster Road,Fish Creek,South Gippsland,West and South Gippsland
+443,1876,CAT 4,Flinders Christian Community College - Main Campus,Independent,155 Mornington - Tyabb Road,Tyabb,Mornington Peninsula,Central
+444,2724,CAT 4,Garfield Primary School,Government,84 Railway Avenue,Garfield,Cardinia,Central
+445,2000,CAT 4,Geelong Baptist College,Independent,590 Anakie Road,Lovely Banks,Greater Geelong,Central
+446,3971,CAT 4,Girgarre Primary School,Government,528 Winter Road,Girgarre,Campaspe,Northern Country
+447,2062,CAT 4,Community College Gippsland Ltd| ECG Community College,Independent,71 Warragul-Korumburra Road,Warragul,Baw Baw,West and South Gippsland
+448,2226,CAT 4,Glowrey Catholic Primary School,Catholic,10 Baltrum Drive,Wollert,Whittlesea,Central
+449,1825,CAT 4,Good Shepherd College - Main Campus,Independent,297 Mount Napier Road,Hamilton,Southern Grampians,South West
+450,841,CAT 4,St Joseph's School,Catholic,167 Burke Street,Warragul,Baw Baw,West and South Gippsland
+451,755,CAT 4,Gordon Primary School,Government,1 Dicker Street,Gordon,Moorabool,Central
+452,6223,CAT 4,Goroke P-12 College,Government,55 Natimuk-Frances Road,Goroke,West Wimmera,Wimmera
+453,1840,CAT 4,Goulburn Valley Grammar School,Independent,455 Verney Road,Shepparton,Greater Shepparton,Northern Country
+454,1886,CAT 4,Grace Christian College Wodonga,Independent,20 Kinchington Road,Leneva,Wodonga,North East
+455,5381,CAT 4,Grasmere Primary School,Government,16 Ibbs Lane,Grasmere,Moyne,South West
+456,4853,CAT 4,Guthridge Primary School,Government,Dawson Street,Sale,Wellington,West and South Gippsland
+457,1076,CAT 4,Haddon Primary School,Government,398 Sago Hill Road,Haddon,Golden Plains,Central
+458,2035,CAT 4,Hamilton North Primary School,Government,34 - 50 Andrews Street,Hamilton,Southern Grampians,South West
+459,5283,CAT 4,Hamilton Parklands School,Government,15 Kerr Street,Hamilton,Southern Grampians,South West
+460,5276,CAT 4,Hampden Specialist School,Government,36 Grayland Street,Cobden,Corangamite,South West
+461,2106,CAT 4,Harkaway Hills College,Independent,20 A'Beckett Road,Narre Warren North,Casey,Central
+462,1458,CAT 4,Harston Primary School,Government,155 Harston Road,Tatura,Greater Shepparton,Northern Country
+463,8816,CAT 4,Heathmont College,Government,Waters Grove,Heathmont,Maroondah,Central
+464,2102,CAT 4,Hoa Nghiem Primary School,Independent,442-448 Springvale Road,Springvale South,Greater Dandenong,Central
+465,1767,CAT 4,Holy Trinity Lutheran College,Independent,Trinity Drive,Horsham,Horsham,Wimmera
+466,8246,CAT 4,Homestead Senior Secondary College,Government,9 Coaching Parade,Point Cook,Wyndham,Central
+467,8904,CAT 4,Hopetoun P-12 College,Government,1 Dodgshun Street,Hopetoun,Yarriambiack,Mallee
+468,5548,CAT 4,Horsham Primary School - 298 Campus,Government,38 Baillie Street,Horsham,Horsham,Wimmera
+469,4697,CAT 4,Horsham West and Haven Primary School - Horsham West Campus,Government,24 Hillary Street,Horsham,Horsham,Wimmera
+470,2052,CAT 4,Hume Anglican Grammar - Mount Ridley Homestead Campus,Independent,100 Mount Ridley Road,Mickleham,Hume,Central
+471,5117,CAT 4,Churchill North Primary School,Government,Blackwood Crescent,Churchill,Latrobe,West and South Gippsland
+472,1147,CAT 4,Inverleigh Primary School,Government,54 High Street,Inverleigh,Golden Plains,Central
+473,2988,CAT 4,Jeparit Primary School,Government,Sands Avenue,Jeparit,Hindmarsh,Wimmera
+474,8842,CAT 4,Kaniva College,Government,2 Farmers Street,Kaniva,West Wimmera,Wimmera
+475,2069,CAT 4,Katamatite Primary School,Government,4 - 6 Currajong Avenue,Katamatite,Moira,Northern Country
+476,4401,CAT 4,Katandra West Primary School,Government,17-27 Bankin Street,Katandra West,Greater Shepparton,Northern Country
+477,4689,CAT 4,Katunga Primary School,Government,24 CARTER STREET,Katunga,Moira,Northern Country
+478,1869,CAT 4,Kerang Christian College,Independent,98 Wyndham Street,Kerang,Gannawarra,Mallee
+479,1366,CAT 4,Kialla Central Primary School,Government,128 Central Kialla Road,Kialla,Greater Shepparton,Northern Country
+480,1727,CAT 4,Kialla West Primary School,Government,7370 Goulburn Valley Highway,Kialla West,Greater Shepparton,Northern Country
+481,6229,CAT 4,Kiewa Valley Primary School,Government,81 Kiewa East Road,Tangambalanga,Indigo,North East
+482,1568,CAT 4,Kilmore Primary School,Government,35 Lancefield Road,Kilmore,Mitchell,North Central
+483,4990,CAT 4,Knox Park Primary School,Government,Kathryn Road,Knoxfield,Knox,Central
+484,3323,CAT 4,Kongwak Primary School,Government,1445 Wonthaggi Korumburra Road,Kongwak,South Gippsland,West and South Gippsland
+485,2082,CAT 4,Koonwarra Village School,Independent,20-26 Koala Drive,Koonwarra,South Gippsland,West and South Gippsland
+486,618,CAT 4,Koroit And District Primary School,Government,91 Commercial Road,Koroit,Moyne,South West
+487,7960,CAT 4,Korumburra Secondary College,Government,125 Jumbunna Road,Korumburra,South Gippsland,West and South Gippsland
+488,5182,CAT 4,Kunyung Primary School,Government,50 Kunyung Road,Mount Eliza,Mornington Peninsula,Central
+489,5594,CAT 4,Kurrun Primary School,Government,22 Allsburg Avenue ,Officer,Cardinia ,
+490,7970,CAT 4,Kyneton High School - Macedon Ranges Satellite VCAL,Government,67 Baynton Street,Kyneton,Macedon Ranges,Central
+491,854,CAT 4,Lake Bolac College,Government,90 Montgomery Street,Lake Bolac,Ararat,South West
+492,1814,CAT 4,Lancaster Primary School,Government,8 Weller Road,Lancaster,Campaspe,Northern Country
+493,2899,CAT 4,Lang Lang Primary School,Government,52 Westernport Road,Lang Lang,Cardinia,Central
+494,4885,CAT 4,Lara Primary School,Government,120 Flinders Avenue,Lara,Greater Geelong,Central
+495,8841,CAT 4,Lara Secondary College,Government,34 Alkara Avenue,Lara,Greater Geelong,Central
+496,2888,CAT 4,Glengarry Primary School,Government,Cairnbrook Road,Glengarry,Latrobe,West and South Gippsland
+497,2087,CAT 4,Leitchville Primary School,Government,2-4 Hawken Street,Leitchville,Gannawarra,Mallee
+498,8745,CAT 4,Leongatha Secondary College,Government,115 Nerrena Road,Leongatha,South Gippsland,West and South Gippsland
+499,1386,CAT 4,Lethbridge Primary School,Government,2 Stephenson Street,Lethbridge,Golden Plains,Central
+500,2963,CAT 4,Lindenow South Primary School,Government,607 Lindenow-Glenaladale Road,Lindenow South,East Gippsland,East Gippsland
+501,2221,CAT 4,Lisieux Catholic Primary School,Catholic,90 South Beach Road,Torquay North,Surf Coast,Central
+502,1293,CAT 4,Lismore Primary School,Government,77 William Street,Lismore,Corangamite,South West
+503,1961,CAT 4,Little River Primary School,Government,21 Flinders Street,Little River,Wyndham,Central
+504,2382,CAT 4,Hazelwood North Primary School,Government,121 Church Road,Hazelwood North,Latrobe,West and South Gippsland
+505,2912,CAT 4,Loch Primary School,Government,2 Victoria Road,Loch,South Gippsland,West and South Gippsland
+506,6233,CAT 4,Lockington Consolidated School,Government,20 Burns Street,Lockington,Campaspe,Northern Country
+507,5079,CAT 4,Baringa Special School,Government,47 Staff Street,Moe,Latrobe,West and South Gippsland
+508,2234,CAT 4,Lyrebird College,Independent,5/12 Kelso Street ,COLDSTREAM,Yarra Ranges,Central
+509,2243,CAT 4,Lysterfield Lake College,Independent,20 A’Beckett Road ,NARRE WARREN NORTH,Casey,Central
+510,2271,CAT 4,Magpie Primary School,Government,61 Docwra Street,Magpie,Ballarat,Central
+511,1935,CAT 4,Mansfield Autism Statewide Services - Main Campus,Independent,81 Highett Street,Mansfield,Mansfield,North East
+512,1895,CAT 4,Mansfield Rudolf Steiner School,Independent,91 Highett Street,Mansfield,Mansfield,North East
+513,8010,CAT 4,Mansfield Secondary College,Government,15 View Street,Mansfield,Mansfield,North East
+514,1903,CAT 4,Mary MacKillop Catholic Regional College,Catholic,115 Horn Street,Leongatha,South Gippsland,West and South Gippsland
+515,5420,CAT 4,Meeniyan Primary School,Government,6 Geale Street,Meeniyan,South Gippsland,West and South Gippsland
+516,1706,CAT 4,Melbourne Rudolf Steiner School,Independent,213 Wonga Road,Warranwood,Maroondah,Central
+517,1420,CAT 4,Meredith Primary School,Government,5 Wallace Street,Meredith,Golden Plains,Central
+518,5277,CAT 4,Merri River School,Government,1 Goodall Street,Warrnambool,Warrnambool,South West
+519,1874,CAT 4,Merrigum Primary School,Government,Judd Avenue,Merrigum,Greater Shepparton,Northern Country
+520,1051,CAT 4,Mickleham Primary School,Government,1880 Mickleham Road,Mickleham,Hume,Central
+521,737,CAT 4,Milawa Primary School,Government,133 Milawa-Bobinawarrah Road,Milawa,Wangaratta,North East
+522,1739,CAT 4,Miners Rest Primary School,Government,Dundas Street,Miners Rest,Ballarat,Central
+523,2167,CAT 4,Minyip Primary School,Government,21 Main Street,Minyip,Yarriambiack,Wimmera
+524,5571,CAT 4,Mirripoa Primary School,Government,80 Unity Drive,Mount Duneed,Greater Geelong,Central
+525,8809,CAT 4,Monterey Secondary College,Government,Silvertop Street,Frankston North,Frankston,Central
+526,1683,CAT 4,Moonambel Primary School,Government,24 Humffray Street,Moonambel,Pyrenees,South West
+527,2327,CAT 4,Moorooduc Primary School,Government,Cnr Derril Rd & Mornington Tyabb Rd,Moorooduc,Mornington Peninsula,Central
+528,4117,CAT 4,Moriac Primary School,Government,785 Hendy Main Road,Moriac,Surf Coast,Central
+529,2037,CAT 4,Mount Blowhard Primary School,Government,527 Millers Road,Blowhard,Ballarat,Central
+530,5380,CAT 4,Mount Duneed Regional Primary School,Government,90-100 Williams Road,Mount Duneed,Greater Geelong,Central
+531,7028,CAT 4,Mount Erin Secondary College - Frankston Campus,Government,43 Robinsons Road,Frankston South,Frankston,Central
+532,8828,CAT 4,Mount Rowan Secondary College - Mount Rowan Campus,Government,457 Forest Street,Wendouree,Ballarat,Central
+533,1635,CAT 4,Mount St Joseph Girls' College,Catholic,133 Maidstone Street,Altona,Hobsons Bay,Central
+534,1335,CAT 4,Moyhu Primary School,Government,2799 Wangaratta-Whitfield Road,Moyhu,Wangaratta,North East
+535,1990,CAT 4,Mt Hira College,Independent,185 Perry Road,Keysborough,Greater Dandenong,Central
+536,1126,CAT 4,Murchison Primary School,Government,8 - 10 Impey Street,Murchison,Greater Shepparton,Northern Country
+537,3859,CAT 4,Murrabit Group School,Government,61 Browning Avenue,Murrabit,Gannawarra,Mallee
+538,1549,CAT 4,Murtoa College,Government,Webb Street,Murtoa,Yarriambiack,Wimmera
+539,487,CAT 4,Myrniong Primary School,Government,13 Muddy Lane,Myrniong,Moorabool,Central
+540,8873,CAT 4,Myrtleford P-12 College,Government,Prince Street,Myrtleford,Alpine,North East
+541,1589,CAT 4,Nagle College,Catholic,20 Hope Avenue,Bairnsdale,East Gippsland,East Gippsland
+542,5395,CAT 4,Nambrok Denison Primary School,Government,947 Sale-Cowwarr Road,Nambrok,Wellington,West and South Gippsland
+543,3708,CAT 4,Nanneella Estate Primary School,Government,159 Bennett Road,Nanneella,Campaspe,Northern Country
+544,1072,CAT 4,Napoleons Primary School,Government,4721 Colac-Ballarat Road,Napoleons,Golden Plains,Central
+545,5382,CAT 4,Narrawong District Primary School,Government,Princes Highway,Narrawong,Glenelg,South West
+546,1548,CAT 4,Natimuk Primary School,Government,38 Old Noradjuha Road,Natimuk,Horsham,Wimmera
+547,1812,CAT 4,Newhaven College - Main Campus,Independent,1770 Phillip Island Road,Rhyll,Bass Coast,Central
+548,3053,CAT 4,Newhaven Primary School,Government,12-22 School Avenue,Newhaven,Bass Coast,Central
+549,453,CAT 4,Newlyn Primary School,Government,2701 Midland Highway,Newlyn,Hepburn,Central
+550,8833,CAT 4,Nhill College,Independent,Whitehead Avenue,Nhill,Hindmarsh,Wimmera
+551,1754,CAT 4,Nhill Lutheran School,Independent,2 Mackay St,Nhill,Hindmarsh,Wimmera
+552,8821,CAT 4,Lowanna College,Government,72-96 Newark Avenue,Newborough,Latrobe,West and South Gippsland
+553,1178,CAT 4,Noorat Primary School,Government,MacKinnon's Bridge Road,Noorat,Corangamite,South West
+554,1770,CAT 4,North-Eastern Montessori School - Plenty Valley International Montessori School,Independent,315 Aqueduct Road,St Helena,Banyule,Central
+555,1652,CAT 4,Nullawarre and District Primary School,Government,132 Henry's Sawmill Road,Nullawarre,Moyne,South West
+556,3401,CAT 4,Nyora Primary School,Government,Grundy Avenue,Nyora,South Gippsland,West and South Gippsland
+557,2742,CAT 4,Officer Primary School,Government,13-23 Tivendale Rd,Officer,Cardinia,Central
+558,8907,CAT 4,Officer Secondary College,Government,1 Parker Street,Officer,Cardinia,Central
+559,5550,CAT 4,Officer Specialist School,Government,3 Parker Street,Officer,Cardinia,Central
+560,4767,CAT 4,Orbost North Primary School,Government,Rupert St,Orbost,East Gippsland,East Gippsland
+561,8215,CAT 4,Orbost Secondary College,Government,20 Arnold Street,Orbost,East Gippsland,East Gippsland
+562,2218,CAT 4,Oscar Romero Catholic Primary School,Catholic,1 MacKillop Street,Craigieburn West,Hume,Central
+563,1632,CAT 4,Our Lady Help of Christians School,Catholic,15 Munro Street,Murtoa,Yarriambiack,Wimmera
+564,661,CAT 4,Our Lady of the Sacred Heart Primary,Catholic,32 Jeffrey Street,Elmore,Greater Bendigo,Northern Country
+565,1908,CAT 4,Overnewton Anglican Community College - Keilor Main Campus,Independent,2-50 Overnewton Road,Keilor,Brimbank,Central
+566,1792,CAT 4,Oxley Christian College,Independent,15 - 49 Old Melbourne Rd,Chirnside Park,Yarra Ranges,Central
+567,1399,CAT 4,Oxley Primary School,Government,1050 Wangaratta-Whitfield Road,Oxley,Wangaratta,North East
+568,5527,CAT 4,Pakenham Primary School,Government,50 Atlantic Drive,Pakenham,Cardinia,Central
+569,1079,CAT 4,Panmure Primary School,Government,8759 Princes Highway,Panmure,Moyne,South West
+570,4670,CAT 4,Newborough East Primary School,Government,300 Old Sale Road,Newborough,Latrobe,West and South Gippsland
+571,486,CAT 4,Penshurst Primary School,Government,87 Ritchie Street,Penshurst,Southern Grampians,South West
+572,2108,CAT 4,Phillip Island Village School,Independent,479 Berrys Beach Road,Ventnor,Bass Coast,Central
+573,1826,CAT 4,Plenty Valley Christian College - Doreen Campus,Independent,840 Yan Yean Road,Doreen,Nillumbik,Central
+574,6247,CAT 4,Port Fairy Consolidated School,Government,Albert Street,Port Fairy,Moyne,South West
+575,5282,CAT 4,Portland Bay School,Government,77 Henty Street,Portland,Glenelg,South West
+576,1194,CAT 4,Portland North Primary School ,Government,42 School Road,Portland North,Glenelg,South West
+577,4750,CAT 4,Portland South Primary School,Government,133-141 Edgar Street,Portland,Glenelg,South West
+578,1712,CAT 4,Pyramid Hill College,Government,101 Kelly Street,Pyramid Hill,Loddon,Northern Country
+579,2959,CAT 4,Research Primary School,Government,1570 Main Road,Research,Nillumbik,Central
+580,919,CAT 4,Rockbank Primary School,Government,97-105 Westcott Parade,Rockbank,Melton,Central
+581,531,CAT 4,Rokewood Primary School,Government,38 Aitchison Street,Rokewood,Golden Plains,Central
+582,770,CAT 4,Rosedale Primary School,Government,1-23 Cricket Street,Rosedale,Wellington,West and South Gippsland
+583,1595,CAT 4,Rupanyup Primary School,Government,22 Dyer Street,Rupanyup,Yarriambiack,Wimmera
+584,8300,CAT 4,Rutherglen High School,Government,40 Sheridans Bridge Road,Rutherglen,Indigo,North East
+585,5175,CAT 4,Sale and District Specialist School,Government,333 Princes Highway,Sale,Wellington,West and South Gippsland
+586,1299,CAT 4,Salesian College,Catholic,Rupertswood,Sunbury,Hume,Central
+587,4974,CAT 4,Seaford North Primary School,Government,81 Hallifax Street,Seaford,Frankston,Central
+588,1167,CAT 4,Sebastopol Primary School,Government,9 Warreen Street,Sebastopol,Ballarat,Central
+589,1222,CAT 4,Skye Primary School,Government,395 Ballarto Road,Skye,Frankston,Central
+590,1090,CAT 4,Sorrento Primary School,Government,32 Kerferd Avenue,Sorrento,Mornington Peninsula,Central
+591,1859,CAT 4,St Anthony's School,Catholic,90 Kees Road,Lara,Greater Geelong,Central
+592,1646,CAT 4,St Arnaud Primary School,Government,Charlton Road,St Arnaud,Northern Grampians,Wimmera
+593,1779,CAT 4,St Augustine's Primary School,Catholic,Augustine's Way,Keilor,Brimbank,Central
+594,192,CAT 4,St Augustine's School,Catholic,119 Napier Street,Creswick,Hepburn,Central
+595,1808,CAT 4,St Augustine's School,Catholic,80 Golf Links Road,Frankston South,Frankston,Central
+596,212,CAT 4,St Brendan's Primary School,Catholic,1 Ti Tree Road,Dunnstown,Moorabool,Central
+597,1099,CAT 4,St Brendan's School,Catholic,727 Corangamite Lake Road,Coragulac,Colac-Otway,South West
+598,1581,CAT 4,St Brendan's School,Catholic,Golf Links Road,Lakes Entrance,East Gippsland,East Gippsland
+599,2067,CAT 4,St Brigid's School - Main Campus,Catholic,25 Bayview Road,Officer,Cardinia,Central
+600,1015,CAT 4,St James School,Catholic,60 Nar Nar Goon Road,Nar Nar Goon,Cardinia,Central
+601,1813,CAT 4,St John's Lutheran School,Independent,43-55 Trangmar Street,Portland,Glenelg,South West
+602,1109,CAT 4,St John's School,Catholic,263 Russell Street,Dennington,Warrnambool,South West
+603,595,CAT 4,St Joseph's College,Catholic,21 Dickson Street,Echuca,Campaspe,Northern Country
+604,1532,CAT 4,St Joseph's School,Catholic,33 Lascelles Street,Hopetoun,Yarriambiack,Mallee
+605,856,CAT 4,Toongabbie Primary School,Government,Victoria Street,Toongabbie,Latrobe,West and South Gippsland
+606,2242,CAT 4,St Lawrence of Brindisi Catholic Primary School,Catholic,31 Waterway Boulevard ,WEIR VIEWS,Melton ,Central
+607,1510,CAT 4,St Malachy's School,Catholic,34 Lake Street,Edenhope,West Wimmera,Wimmera
+608,161,CAT 4,St Mary's College,Catholic,90 High Street,Seymour,Mitchell,North Central
+609,139,CAT 4,St Mary's School,Catholic,5 Hope Avenue,Bairnsdale,East Gippsland,East Gippsland
+610,1480,CAT 4,St Mary's School,Catholic,131 Powells Road,Clarkes Hill,Moorabool,Central
+611,181,CAT 4,St Mary's School,Catholic,134 Woods Street,Donald,Buloke,Mallee
+612,724,CAT 4,St Mary's School,Catholic,Hillier Lane,Hamilton,Southern Grampians,South West
+613,368,CAT 4,St Mary's School,Catholic,High Street,Rutherglen,Indigo,North East
+614,581,CAT 4,St Mary's School,Catholic,2-8 Campbell Street,Warracknabeal,Yarriambiack,Wimmera
+615,1058,CAT 4,St Mary's School,Catholic,5 Buckley Street,Yarram,Wellington,West and South Gippsland
+616,1524,CAT 4,St Michael's School,Catholic,Davis Street,Heyfield,Wellington,West and South Gippsland
+617,187,CAT 4,St Patrick's School,Catholic,1564 Old Melbourne Road,Gordon,Moorabool,Central
+618,1550,CAT 4,St Patrick's School,Catholic,5 Victoria Street,Pyramid Hill,Loddon,Northern Country
+619,782,CAT 4,St Patrick's School,Catholic,55 Patrick Street,Stawell,Northern Grampians,Wimmera
+620,1301,CAT 4,St Patrick's School,Catholic,2 Merrick Street,Stratford,Wellington,West and South Gippsland
+621,1594,CAT 4,St Patrick's School,Catholic,Mangan Street,Tongala,Campaspe,Northern Country
+622,1655,CAT 4,St Peter Julian Eymard,Catholic,Reay Road,Mooroolbark,Yarra Ranges,Central
+623,1920,CAT 4,St Peter's College,Catholic,1005 Cranbourne-Frankston Road,Cranbourne West,Casey,Central
+624,1901,CAT 4,St Therese School,Catholic,50 Grossmans Road,Torquay,Surf Coast,Central
+625,1966,CAT 4,St Thomas Aquinas College,Independent,1 Tynong Road,Tynong,Cardinia,Central
+626,1963,CAT 4,St Thomas Primary School,Catholic,1-7 Peninsula Drive,Drysdale,Greater Geelong,Central
+627,3937,CAT 4,Stanhope Primary School,Government,48 Midland Highway,Stanhope,Campaspe,Northern Country
+628,8731,CAT 4,Stawell Secondary College,Government,79-97 Patrick Street,Stawell,Northern Grampians,Wimmera
+629,4934,CAT 4,Stawell West Primary School,Government,80-88 Cooper Street,Stawell,Northern Grampians,Wimmera
+630,596,CAT 4,Stratford Primary School,Government,14 Wellsford Street,Stratford,Wellington,West and South Gippsland
+631,2790,CAT 4,Strathmerton Primary School,Government,Findlay Street,Strathmerton,Moira,Northern Country
+632,1365,CAT 4,Tallangatta Primary School,Government,1 Wonga Grove,Tallangatta,Towong,North East
+633,8370,CAT 4,Tallangatta Secondary College,Government,145 Towong Street,Tallangatta,Towong,North East
+634,3067,CAT 4,Tallygaroopna Primary School,Government,24-34 Victoria Street,Tallygaroopna,Greater Shepparton,Northern Country
+635,196,CAT 4,Tarrington Lutheran School,Independent,7901 Hamilton Highway,Tarrington,Southern Grampians,South West
+636,2065,CAT 4,Teesdale Primary School,Government,Main Road,Teesdale,Golden Plains,Central
+637,6236,CAT 4,Terang College - 5-12 Campus,Government,45 Strong Street,Terang,Corangamite,South West
+638,5221,CAT 4,Latrobe Special Developmental School,Government,Hickox Street,Traralgon,Latrobe,West and South Gippsland
+639,2253,CAT 4,Toora Primary School,Government,5 Harriet Street,Toora,South Gippsland,West and South Gippsland
+640,5556,CAT 4,Torquay Coast Primary School,Government,25 Stretton Drive,Torquay,Surf Coast,Central
+641,1150,CAT 4,Trawalla Primary School,Government,11 Trawalla Road,Trawalla,Pyrenees,South West
+642,2225,CAT 4,Tungamah Primary School,Government,15 -17 Tower Street,Tungamah,Moira,Northern Country
+643,5403,CAT 4,Tyrrell College,Government,10 Sutcliff Street,Sea Lake,Buloke,Mallee
+644,2230,CAT 4,Village High School,Independent,450 Dalyston-Glen Forbes Road,Ryanston,Bass Coast,Central
+645,5202,CAT 4,Wallaroo Primary School,Government,Stalwart Avenue,Hastings,Mornington Peninsula,Central
+646,2806,CAT 4,Walwa Primary School,Government,Murray River Road,Walwa,Towong,North East
+647,1334,CAT 4,Warracknabeal Primary School,Government,5 Werrigar Street,Warracknabeal,Yarriambiack,Wimmera
+648,8430,CAT 4,Warracknabeal Secondary College,Government,5 Werrigar Street,Warracknabeal,Yarriambiack,Wimmera
+649,5291,CAT 4,Warracknabeal Special Developmental School,Government,5 Werrigar Street,Warracknabeal,Yarriambiack,Wimmera
+650,1591,CAT 4,Warrenheip Primary School,Government,93 Warrenheip Road,Warrenheip,Ballarat,Central
+651,5396,CAT 4,Welshpool and District Primary School,Government,5960 South Gippsland Highway,Welshpool,South Gippsland,West and South Gippsland
+652,1916,CAT 4,White Hills Primary School,Government,16 Plumridge Street,White Hills,Greater Bendigo,Northern Country
+653,2090,CAT 4,Whittlesea Primary School,Government,2425-2435 Plenty Road,Whittlesea,Whittlesea,Central
+654,1373,CAT 4,Whorouly Primary School,Government,18 Church Street,Whorouly,Wangaratta,North East
+655,2662,CAT 4,Willaura Primary School,Government,14 Warranooke Street,Willaura,Ararat,South West
+656,3479,CAT 4,Willowmavin Primary School,Government,690 Willowmavin Road,Willowmavin,Mitchell,North Central
+657,1870,CAT 4,Winton Primary School,Government,Fox Street,Winton,Benalla,North East
+658,2064,CAT 4,Woodleigh School - Senior Campus,Independent,485 Golf Links Road,Langwarrin South,Frankston,Central
+659,2239,CAT 4,Woodline Primary,Independent,405 Barrabool Road ,CERES,Greater Geelong,Central
+660,8491,CAT 4,Woodmans Hill Secondary College,Government,1 Fussell Street,Ballarat East,Ballarat,Central
+661,688,CAT 4,Woolsthorpe Primary School,Government,12 Manifold Street,Woolsthorpe,Moyne,South West
+662,8831,CAT 4,Wycheproof P-12 College,Government,McKenzie Crescent,Wycheproof,Buloke,Mallee
+663,956,CAT 4,Yarra Glen Primary School,Government,35 Symonds Street,Yarra Glen,Yarra Ranges,Central
+664,8815,CAT 4,Yarra Hills Secondary College - Mooroolbark Campus,Government,16 Reay Road,Mooroolbark,Yarra Ranges,Central
+665,8490,CAT 4,Yarram Secondary College,Government,86 James Street,Yarram,Wellington,West and South Gippsland
+666,2419,CAT 4,Yinnar Primary School,Government,30 Main Street,Yinnar,Latrobe,West and South Gippsland
+667,4359,CAT 4,Zeerust Primary School,Government,245 Zeerust Road,Zeerust,Greater Shepparton,Northern Country

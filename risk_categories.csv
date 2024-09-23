@@ -1,0 +1,5 @@
+category_name,descriptions
+CAT 1,High-risk site: Likely to experience extreme bushfire behavior and significant impact.
+CAT 2,"Moderate-risk site: Risk of severe bushfire behavior and impact, but not as extreme as CAT 1."
+CAT 3,"Low-risk site: Limited risk of bushfire behavior, primarily grass fires."
+CAT 4,"Minimal-risk site: Very low risk of bushfire, with unlikely significant impact."
